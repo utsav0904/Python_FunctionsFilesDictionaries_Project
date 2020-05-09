@@ -15,6 +15,12 @@
 
 3)Next, copy in your strip_punctuation function and define a function called get_neg which takes one parameter, a string which represents one or more sentences,
   and calculates how many words in the string are considered negative words. Use the list, negative_words to determine what words will count as negative. The
+  
+  
+  
+  
+  
+  by Utsav Acharya
   function should return a positive integer - how many occurrences there are of negative words in the text. Note that all of the words in negative_words are lower
   cased, so you’ll need to convert all the words in the input string to lower case as well.
 
