@@ -14,14 +14,7 @@
   cased, so you’ll need to convert all the words in the input string to lower case as well.
 
 3)Next, copy in your strip_punctuation function and define a function called get_neg which takes one parameter, a string which represents one or more sentences,
-  and calculates how many words in the string are considered negative words. Use the list, negative_words to determine what words will count as negative. The
-  
-  
-  
-  
-  
-  by Utsav Acharya
-  function should return a positive integer - how many occurrences there are of negative words in the text. Note that all of the words in negative_words are lower
+  and calculates how many words in the string are considered negative words. Use the list, negative_words to determine what words will count as negative. Thefunction should return a positive integer - how many occurrences there are of negative words in the text. Note that all of the words in negative_words are lower
   cased, so you’ll need to convert all the words in the input string to lower case as well.
 
 4)Finally, copy in your previous functions and write code that opens the file project_twitter_data.csv which has the fake generated twitter data (the text of a tweet,
@@ -31,3 +24,8 @@
   is how many angry words are in the tweet), and the Net Score (how positive or negative the text is overall) for each tweet. The file should have those headers in
   that order. Remember that there is another component to this project. You will upload the csv file to Excel or Google Sheets and produce a graph of the
   Net Score vs Number of Retweets. Check Coursera for that portion of the assignment, if you’re accessing this textbook from Coursera.
+
+
+
+
+by Utsav Acharya
